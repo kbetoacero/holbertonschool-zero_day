@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-updating file
+#file updated
